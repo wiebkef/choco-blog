@@ -1,3 +1,3 @@
 # Very Professional Choco Blog
-simple website about chocolate
+vanilla css website about chocolate
 mhhhhh - delicioso
